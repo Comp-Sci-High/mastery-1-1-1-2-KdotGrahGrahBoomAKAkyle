@@ -2,10 +2,10 @@
 // Don't overthink the answers, anything is fine!
 // SECTION 1
 console.log("Q1. If you had to give a TED talk on anything, what would it be?")
-console.log("...")
+console.log("It'd be on photography!")
 
 console.log("Q2. What's the last show/movie you watched that you would recommend?")
-console.log("...")
+console.log("")
 
 console.log("Q3. What is an activity you do to relax or destress?")
 console.log("...")
